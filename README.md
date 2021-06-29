@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadZia-ud-Din.
 - 👀 I’m interested in Full Stack Developing.
 - 🌱 I’m currently learning Backend Languages.
-- 💞️ I’m looking to collaborate on Youtube and other Social Accounts.
+- 💞️ I’m looking for a professional working site or industry.
 - 📫 You can contact/email me ziauddin428428@gmail.com if you need any help or guidance.
 
 <!---
